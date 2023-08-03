@@ -3,7 +3,8 @@
 ¡Bienvenidos a mi perfil de GitHub!<br><br>¡Hola a todos! Soy Jean Pierre Chong, un apasionado programador joven de 18 años proveniente de la hermosa tierra de Perú. Mi pasión por la programación y el desarrollo de software ha sido una constante en mi vida desde que tengo memoria. Cada día me despierto con emoción y ansias de aprender algo nuevo, y de enfrentar los retos que el mundo de la tecnología nos presenta.<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=jeanchong15&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeanchong_15) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jeanchong_15) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jeanchong_15) 
 
@@ -20,7 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jeanchong15&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=jeanchong15&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
