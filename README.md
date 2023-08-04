@@ -1,5 +1,5 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 [![](https://visitcount.itsvg.in/api?id=jeanchong15&icon=0&color=1)](https://visitcount.itsvg.in)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 # 💫 About Me:
 ¡Bienvenidos a mi perfil de GitHub!<br><br>¡Hola a todos! Soy Jean Pierre Chong, un apasionado programador joven de 18 años proveniente de la hermosa tierra de Perú. Mi pasión por la programación y el desarrollo de software ha sido una constante en mi vida desde que tengo memoria. Cada día me despierto con emoción y ansias de aprender algo nuevo, y de enfrentar los retos que el mundo de la tecnología nos presenta.<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
