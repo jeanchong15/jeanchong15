@@ -39,3 +39,10 @@
 </picture>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <img src="https://streak-stats.demolab.com?user=jeanchong15&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jeanchong15&theme=radical" />
+<br/>
+    
+</div>
