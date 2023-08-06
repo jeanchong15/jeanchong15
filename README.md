@@ -44,6 +44,5 @@
     <img src="https://streak-stats.demolab.com?user=jeanchong15&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api?username=jeanchong15&theme=radical" />
 <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchong15&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    <img src=
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchong15&layout=compact&theme=radical" />
 </div>
