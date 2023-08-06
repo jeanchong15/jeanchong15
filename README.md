@@ -22,4 +22,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E00F7&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=Jean+Pierre+Chong+" alt="Typing SVG" /></a>
+
