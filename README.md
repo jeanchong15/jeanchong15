@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jean+Pierre+Chong!;" />
 
 </h1>
-<h3 align="center">Un apacionado desarrollador de software de Perú🇵🇪</h3>
+<h3 align="center">Un apacionado desarrollador de software de Perú</h3>
 
 <br/>
 
