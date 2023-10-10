@@ -19,12 +19,11 @@
  </div>
 <h2 align="center">📱 Contact 📱</h2>
  <div align="center">
-  <a href="https://www.linkedin.com/in/jeanchong15" target="_blank">
+   <a href="https://www.linkedin.com/in/jeanchong15" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
 <h2 align="center">⚒️ Languages ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=,github,python,javascript,java" /><br>
     <img src="https://skillicons.dev/icons?i=,html,css,vscode" />
