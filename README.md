@@ -31,7 +31,7 @@
 </div> 
 
 </div>
-
+<h2>🐍 My Contributions 🐍</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -43,7 +43,6 @@
 <div align=center>
     <img width=390 src="https://streak-stats.demolab.com?user=jeanchong15&theme=radical" />
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeanchong15&theme=radical" />
-    <h2>🐍 My Contributions 🐍</h2>
 <br/>
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchong15&layout=compact&theme=radical" />
 </div>
