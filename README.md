@@ -41,8 +41,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
