@@ -15,8 +15,6 @@
  🌱 I’m currently learning **Programming**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- jjj
- **F en el chat**
  
  </div>
 <h2 align="center"> Contact </h2>
