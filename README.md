@@ -44,10 +44,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://streak-stats.demolab.com?user=jeanchong15&theme=radical" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeanchong15&theme=radical" />
+    <img width=390 src="https://streak-stats.demolab.com?user=jeanchong15&theme=radical">
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeanchong15&theme=radical">
 <br/>
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchong15&layout=compact&theme=radical" />
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchong15&layout=compact&theme=radical">
 </div>
 
 <br/><br/>
