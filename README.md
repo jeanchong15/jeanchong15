@@ -32,9 +32,6 @@
 
 </div>
 <hr>
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-</div>
 <picture>
     <h2 align="center">🐍 My Contributions 🐍</h2>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
