@@ -43,6 +43,7 @@
 <div align=center>
     <img width=390 src="https://streak-stats.demolab.com?user=jeanchong15&theme=radical" />
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeanchong15&theme=radical" />
+    <h2>🐍 My Contributions 🐍</h2>
 <br/>
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchong15&layout=compact&theme=radical" />
 </div>
