@@ -22,7 +22,7 @@
    <a href="https://www.linkedin.com/in/jeanchong15" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-     <a href="email:jpcdstech@gmail.com">
+     <a href="mailto:jpcdstech@gmail.com">
          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
      </a>
