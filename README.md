@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanchong15&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+[![](https://visitcount.itsvg.in/api?id=jeanchong15&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jean+Pierre+Chong!;" />
 
