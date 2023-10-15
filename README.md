@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/P7hCyZlzDH4AAAAC/wink-anime.gif" alt="GIF de ejemplo">
+  <img src="https://ximhai.com/img/programando.gif" alt="GIF de ejemplo">
 </p>
 
 <h1 align="center">
