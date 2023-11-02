@@ -58,7 +58,7 @@ graph TD;
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,php,sqlite" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p>
 
