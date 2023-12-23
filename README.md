@@ -1,15 +1,15 @@
-<!--<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
-  https://mastodon.social/oops.gif
-  https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif
-  https://services.google.com/fh/files/misc/hero_animated_logo.gif
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
-</picture>-->
+</picture>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://ximhai.com/img/programando.gif" alt="GIF de ejemplo">
-</p>
+    https://mastodon.social/oops.gif
+    https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif7
+    https://services.google.com/fh/files/misc/hero_animated_logo.gif
+</p>-->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jean+Pierre+Chong!;" />
