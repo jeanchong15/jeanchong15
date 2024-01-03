@@ -51,9 +51,9 @@
 
  ```mermaid
 graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
+    Full-Stack-->HTML5;
+    Full-Stack-->CSS3;
+    Full-Stack-->JavaScript;
 ```
 
 <!------------------------------------------------------------------------------------------------->
