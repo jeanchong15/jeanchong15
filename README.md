@@ -1,10 +1,14 @@
-<picture>
+<p align="center">
+<img src="https://i.pinimg.com/originals/74/8c/2b/748c2b6da9774d534fe4d1fb4014ee37.gif" alt="GIF de ejemplo">
+</p>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
-</picture>
+</picture>-->
 
 <!--<p align="center">
+https://i.pinimg.com/originals/4d/7a/08/4d7a08e2814de22f701c97d17917416c.gif
   <img src="https://ximhai.com/img/programando.gif" alt="GIF de ejemplo">
     https://mastodon.social/oops.gif
     https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif7
