@@ -55,9 +55,9 @@ https://i.pinimg.com/originals/4d/7a/08/4d7a08e2814de22f701c97d17917416c.gif
 
  ```mermaid
 graph TD;
-    Full-Stack-->HTML5;
-    Full-Stack-->CSS3;
-    Full-Stack-->JavaScript;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
 ```
 
 <!------------------------------------------------------------------------------------------------->
